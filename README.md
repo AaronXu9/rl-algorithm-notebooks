@@ -15,5 +15,6 @@ nets/seeds so only the thing under study changes.
 | 07 | Offline RL: BC vs CQL vs IQL (+naive) | CartPole-v1 (fixed dataset) |
 | 08 | GFlowNet vs PPO vs MCMC (diversity / modes) | hypergrid |
 | 09 | Exploration: ε-greedy vs count/RND/ICM (sparse reward) | four-rooms gridworld |
+| 10 | Control as inference: soft vs hard Q-learning (Boltzmann policy, α sweep) | 5×5 gridworld (tabular) |
 
 Open any notebook in Colab via: `colab.research.google.com/github/<user>/<repo>/blob/main/<file>.ipynb`
